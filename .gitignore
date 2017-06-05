@@ -1,0 +1,6 @@
+*.pyc
+*.sqlite3
+files/
+node_modules
+npm-debug.log
+env/
